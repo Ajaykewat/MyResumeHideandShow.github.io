@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: grid;
+    grid-template-columns: 58rem 25rem;
+    height: 106rem;
+    width: 83rem;
+    background-color: chartreuse;
+    border: 5px solid;
+}
+.info{
+    background-color: rgb(206, 224, 224);
+    height: 106rem;
+}
+
+
+.name h2 {
+    margin-left: 5rem;
+    /* background-color: blue; */
+    font-size: 4rem;
+    width: 21rem;
+    margin-top: 2rem;
+}
+.name p {
+    margin-left: 5rem;
+    /* background-color: blue; */
+    font-size: 2rem;
+    width: 21rem;
+    margin-top: 1rem;
+}
+
+#name {
+    background-color: rgb(9, 92, 92);
+    width: 27rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    height: 11px;
+}
+
+
+#ed {
+    margin-top: 3rem;
+    margin-left: 1rem;
+    font-size: 3rem;
+}
+
+.education {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    /* background-color: blueviolet; */
+    width: 50rem;
+    padding: 1rem;
+}
+.section1 h2 {
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.section1 h2 a {
+    color: rgb(17 14 228 / 82%);
+    text-decoration: none;
+}
+.section1 p {
+    margin-left: 27rem;
+    font-size: 1rem;
+    
+}
+.project h2 {
+    margin-top: 2rem;
+    margin-left: 7rem;
+    font-size: 3rem;
+}
+
+.project h4 {
+    margin-top: 1rem;
+    margin-left: 9rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.project p {
+    margin-top: 2rem;
+    margin-left: 8rem;
+    font-size: 2rem;
+}
+.project h1 {
+    font-size: 4rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    width: 19rem;
+}
+.project h3 {
+    margin-top: 2rem;
+    margin-left: 8rem;
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.basic {
+    background-color: rgb(105, 231, 225);
+    height: 106rem;
+}
+.logo {
+    width: 9rem;
+    height: 10rem;
+    margin: 3rem 8rem;
+    border-radius: 5rem;
+    border: 2px solid;
+}
+
+.logo img {
+    width: 9rem;
+    height: 10rem;
+    border-radius: 6rem;
+}
+
+.contact {
+    margin: 3rem 2rem;
+    width: 17rem;
+    /* background-color: antiquewhite; */
+}
+  
+.contact a {
+    color: black;
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+}
+.contact span{
+    color:black;
+}
+  
+  .contact a:hover {
+    background-color: #ccc; 
+  }
+
+  .skills {
+    margin: 2rem;
+    width: 19rem;
+}
+.skills h2 {
+    font-size: 2rem;
+}
+  .skills h3 {
+    color: black;
+    display: block;
+    padding: 1rem;
+    font-size: 1rem;
+    width: 18rem;
+}
+  .skills h3:hover{
+    background-color: #ccc; 
+  }
+
+
+
+  .knowledge {
+    margin: 3rem 2rem;
+    width: 21rem;
+    /* background-color: beige; */
+}
+.knowledge h2 {
+    font-size: 2rem;
+}
+.knowledge h3 {
+    color: black;
+    display: block;
+    padding: 2rem;
+    font-size: 1rem;
+    width: 17rem;
+    /* background-color: brown; */
+}
+  .knowledge h3:hover{
+    background-color: #ccc; 
+  }
+  
+  
+  
